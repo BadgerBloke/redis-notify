@@ -39,7 +39,7 @@ production-ready solution. Modify it as needed for your specific use case._
     deno task dev
     ```
 
-3. Send a notification:
+3. Send/Update a notification:
 
     ```bash
     curl --location --request PATCH 'http://localhost:8000/notifications/user123' \
